@@ -1,1 +1,1 @@
-python3 sherlock --help
+$ python3 sherlock --help
